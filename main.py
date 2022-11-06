@@ -1,1 +1,3 @@
-# an array of all letters
+"""
+Alle Mitarbeiter müssen dienstags, mittwochs und 
+"""
